@@ -1,0 +1,34 @@
+
+## 🏥 **Project Problem Statement**
+
+### **Title:** *Hospital Appointment Management System on Salesforce*
+
+### **Problem Statement:**
+
+Hospitals often face challenges in managing patient appointments, doctor availability, and scheduling conflicts using manual methods or disconnected systems. These manual processes lead to appointment overlaps, missed confirmations, poor communication with patients, and inefficient use of doctor time.
+
+There is a need for a centralized, automated system that can efficiently handle **doctor scheduling, patient appointments, confirmations, notifications, and reports** — all within a secure and scalable platform like Salesforce.
+
+---
+
+### **Objectives of the Project:**
+
+1. To design and implement an **Appointment Management System** using Salesforce tools without external coding complexity.
+2. To automate key processes such as **appointment confirmation, conflict checking, and notification sending**.
+3. To enhance doctor–patient coordination by maintaining accurate and real-time availability data.
+4. To provide management with **insightful reports and dashboards** for better decision-making.
+5. To ensure secure data handling using Salesforce’s **profiles, permissions, and validation rules**.
+
+---
+
+### **Expected Outcome:**
+
+By implementing this system in Salesforce, hospitals can:
+
+* Reduce manual effort in managing appointments.
+* Automatically send confirmations to patients.
+* Prevent scheduling conflicts.
+* Generate detailed reports for operational insights.
+* Improve overall efficiency and patient satisfaction.
+
+---
